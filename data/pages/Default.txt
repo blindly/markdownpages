@@ -1,0 +1,16 @@
+Welcome
+=======
+
+Knowldedge Base
+----------------
+
+A Personal Knowledge Base (PKB) is a special kind of database for knowledge management, providing the means for the computerized collection, organization, and retrieval of knowledge. 
+
+Content
+-------
+
+This PKB will be used for any kind of documentation or just to write down some weird ideas. Well, whatever comes to my mind... 
+
+Disclaimer
+----------
+If you find something of interest for you... Congratulations. However, read the Disclaimer. Please note that whatever happens it is not my fault and I cannot be held responsible for anything and definitely not for this world being sick.
