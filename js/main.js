@@ -208,7 +208,7 @@ PageViewModel = function(pageService) {
 				self.getAllPages();
 				$('#modalBox').modal('hide');
 			} else {
-				alert(mdp.ResultHelper.getErrorText(data));
+				//alert(mdp.ResultHelper.getErrorText(data));
 			}
 			self.createPageInfo(data.result);
 		});
